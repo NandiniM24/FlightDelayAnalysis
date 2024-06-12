@@ -1,4 +1,4 @@
-**Predicting Flight Arrival Delays From Various Airports**
+# Predicting Flight Arrival Delays From Various Airports
 
 **Problem Statement**
 The aviation industry in the USA faces a pressing challenge with the persistently high rate of flight delays over the past decade. These delays not only inconvenience passengers but also incur substantial financial costs for airlines. According to recent statistics, flight delays cost the industry billions of dollars annually, with an estimated loss of over $25 billion in revenue each year. These delays result in increased operational expenses, such as fuel consumption, crew wages, and maintenance costs, while simultaneously leading to revenue loss due to missed connections, cancellations, and reduced customer satisfaction. Moreover, airlines risk facing regulatory fines and penalties for prolonged delays, further exacerbating their financial burden. Additionally, frequent flight delays tarnish airlines' reputations and erode customer loyalty, posing long-term challenges in maintaining competitiveness in the market.
