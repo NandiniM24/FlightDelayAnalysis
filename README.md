@@ -34,3 +34,6 @@ weather_delay: The total number of delayed minutes due to weather issues.
 nas_delay: The total number of delayed minutes due to national air system issues. 
 security_delay: The total number of delayed minutes due to security issues. 
 late_aircraft_delay: The total number of delayed minutes due to earlier later arrival of aircraft.
+
+![download (5)](https://github.com/NandiniM24/FlightDelayAnalysis/assets/172534465/1a4d87af-553f-46d9-8ad1-d752c998abf3)
+
